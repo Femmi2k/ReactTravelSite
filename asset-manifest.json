@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactTravelSite/static/css/main.4222e023.chunk.css",
+    "main.js": "/ReactTravelSite/static/js/main.6a6706b1.chunk.js",
+    "main.js.map": "/ReactTravelSite/static/js/main.6a6706b1.chunk.js.map",
+    "runtime-main.js": "/ReactTravelSite/static/js/runtime-main.0d31cb7d.js",
+    "runtime-main.js.map": "/ReactTravelSite/static/js/runtime-main.0d31cb7d.js.map",
+    "static/js/2.c1451412.chunk.js": "/ReactTravelSite/static/js/2.c1451412.chunk.js",
+    "static/js/2.c1451412.chunk.js.map": "/ReactTravelSite/static/js/2.c1451412.chunk.js.map",
+    "index.html": "/ReactTravelSite/index.html",
+    "static/css/main.4222e023.chunk.css.map": "/ReactTravelSite/static/css/main.4222e023.chunk.css.map",
+    "static/js/2.c1451412.chunk.js.LICENSE.txt": "/ReactTravelSite/static/js/2.c1451412.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d31cb7d.js",
+    "static/js/2.c1451412.chunk.js",
+    "static/css/main.4222e023.chunk.css",
+    "static/js/main.6a6706b1.chunk.js"
+  ]
+}
